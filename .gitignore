@@ -1,0 +1,95 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+[Oo]bj/
+UnityGenerated/
+Library/
+Assets/UnityVS*
+*.log
+*Log.txt
+Assets/smcs.rsp
+Assets/smcs.rsp.meta
+Assets/gmcs.rsp
+Assets/gmcs.rsp.meta
+/.vscode/
+/Assets/VSCode*
+
+# =============== #
+# Firebase Editor #
+# =============== #
+/remote_config_data
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+/.vs/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============================== #
+# Visual Studio Plugin Generated #
+# ============================== #
+# Tabs Studio
+/*.tss
+# Resharper
+*.DotSettings
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon\?
+ehthumbs.db
+Thumbs.db
+
+# ================= #
+# Eclipse generated #
+# ================= #
+.project
+
+# WS Project start #
+WSProject/*
+!WSProject/*/
+WSProject/*/*/*
+!WSProject/*/*/App.xaml.cs
+!WSProject/*/*/MainPage.xaml.cs
+!WSProject/*/*/Package.appxmanifest
+!WSProject/*/*/Package.StoreAssociation.xml
+!WSProject/*/*/*.pfx
+!WSProject/*/*/Assets
+/bin/
+WSProject_bak/
+WSProject_Test/*
+!WSProject_Test/*/
+WSProject_Test/*/*/*
+!WSProject_Test/*/*/App.xaml.cs
+!WSProject_Test/*/*/MainPage.xaml.cs
+!WSProject_Test/*/*/Package.appxmanifest
+!WSProject_Test/*/*/Package.StoreAssociation.xml
+!WSProject_Test/*/*/*.pfx
+!WSProject_Test/*/*/Assets
+# WS Project end #
+
+# ============= #
+# Localizations #
+# ============= #
+/.internals/
+
+# ================ #
+# Console Enhanced #
+# ================ #
+Assets/Plugins/ConsoleE/Editor/ConsoleE_TabSettings.meta
+Assets/Plugins/ConsoleE/Editor/ConsoleE_TabSettings
